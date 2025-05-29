@@ -1,0 +1,15 @@
+{
+  "name": "book-list-api",
+  "version": "1.0.0",
+  "description": "A simple REST API to manage a list of books using Node.js and Express.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["REST", "API", "Node.js", "Express", "CRUD", "Books"],
+  "author": "Anilkumar Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
